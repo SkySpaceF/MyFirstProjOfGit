@@ -1,0 +1,5 @@
+hi there !
+this is the first official greeting from SkySpaceF!
+because he succeed to push the file to github via git!
+hahah
+the journey of coding started!
